@@ -19,8 +19,8 @@
 1. Double Click the Camera.exe file in the second File Explorer window.
    1. A popup will appear telling you that "Windows protected your PC".
    1. Click "More info" and then "Run anyway" to continue
-   1.**Since I made this script, I know that it is not a virus. However, if you randomly get a notification like this for a App that you do not recognize, take caution, as it could be malware**
-   1. After you are done, the program will be running.
+   1. **Since I made this script, I know that it is not a virus. However, if you randomly get a notification like this for a App that you do not recognize, take caution, as it could be malware**
+    1. After you are done, the program will be running.
 ## How to use the program:
 Press the Windows key, Shift, and the backslash ('\') key at the same time in order to trigger the script. If the Camera is not open, it will simply open the Camera. If the Camera is open, it will close it and reopen it, effectively refreshing it.
 ### If you want any modifications to the program, such as a different trigger key or for it to automatically refresh after a set duration, feel free to contact me [Including Anyone who happened to come across this page on the Internet]
