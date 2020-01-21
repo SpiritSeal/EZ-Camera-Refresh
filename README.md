@@ -1,4 +1,4 @@
-# Dra.Murphy
+# Easy Camera Refresh
 ### Hi Dra. Murphy, here is the script for quickly fixing your desk camera whenever it freezes up!
 ## You can find the instructions for how to use it in the video, or you can follow these text instructions
 1. Click the Green Clone or Download button under the scales with "MIT" next to them.
